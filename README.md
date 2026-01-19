@@ -2,9 +2,7 @@
 
 ## Visão Geral
 
-O **AnatoEcho** é um projeto baseado em Inteligência Artificial voltado ao **apoio ao estudo por meio de vídeos educacionais em anatomia humana**. Diferentemente de outros projetos do ecossistema LABPEEM, o AnatoEcho não atua como chatbot nem como atlas, mas como um **plugin educacional** que pode ser integrado a plataformas de ensino, como Moodle, LABPEEM ou ambientes similares.
-
-Sua principal função é **analisar conteúdos audiovisuais** (videoaulas, entrevistas, palestras ou materiais didáticos em vídeo) e gerar automaticamente **resumos estruturados**, organizados de forma pedagógica, reduzindo a necessidade de anotações manuais por parte dos alunos.
+O **AnatoEcho** é um projeto baseado em Inteligência Artificial voltado ao **apoio ao estudo por meio de vídeos educacionais em anatomia humana**. Sua principal função é **analisar conteúdos audiovisuais** (videoaulas, entrevistas, palestras ou materiais didáticos em vídeo) e gerar automaticamente **resumos estruturados**, organizados de forma pedagógica, reduzindo a necessidade de anotações manuais por parte dos alunos.
 
 ## Objetivos do Projeto
 
